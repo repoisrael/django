@@ -127,6 +127,13 @@ Minor features
 
 * ...
 
+:mod:`django.shortcuts`
+~~~~~~~~~~~~~~~~~~~~~~~
+
+* The new 
+:func:`django.shortcuts.make_toast`
+function returms ```toast```.
+
 Cache
 ~~~~~
 
